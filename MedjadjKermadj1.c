@@ -1,11 +1,3 @@
-/*****************************{      RENDU PARTIE1      }******************************/
-/**                                                                                  **/
-/**   1. MEDJADJ Mohamed Abderraouf:   mohamed-abderraouf.medjadj@etu-upsaclay.fr    **/
-/**                                                                                  **/
-/**   2. KERMADJ Zineddine:   zineddine.kermadj@etu-upsaclay.fr                      **/
-/**                                                                                  **/
-/**************************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 
