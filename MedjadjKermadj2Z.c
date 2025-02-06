@@ -1,13 +1,3 @@
-/******************************** RENDU PARTIE2.2-LZ  *********************************/
-/**                                                                                  **/
-/**   1. MEDJADJ Mohamed Abderraouf:   mohamed-abderraouf.medjadj@etu-upsaclay.fr    **/
-/**                                                                                  **/
-/**   2. KERMADJ Zineddine:   zineddine.kermadj@etu-upsaclay.fr                      **/
-/**                                                                                  **/
-/**************************************************************************************/
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -37,7 +27,7 @@ void afficherListeZ(ListeZ listeZ) {
         return;
     }
 
-    Bloc* start = **listeZ; // Récupérer le premier bloc de la liste circulaire
+    Bloc* start = **listeZ; // RÃ©cupÃ©rer le premier bloc de la liste circulaire
     Bloc* current = start;
 
     printf("Liste circulaire :\n");
